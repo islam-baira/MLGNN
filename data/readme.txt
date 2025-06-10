@@ -1,6 +1,14 @@
+The datasets generated and analyzed during the current study are available:
 
-The datasets used during the current study are available:
-\begin{itemize}
-    \item \href{https://github.com/KaiDMML/FakeNewsNet}{FakeNewsNet} \footnote{Shu et al. Fakenewsnet: A data repository with news content, social context, and spatiotemporal information for studying fake news on social media}, comprises two distinct datasets: Politifact and Gossipcop. This repository encompasses features such as the content of the news, social context, and spatiotemporal data.
-    \item \href{https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078}{Pheme Veracity} \footnote{Zubiaga et al. Learning reporting dynamics during breaking news for rumour detection in social media} dataset, which is known for its inclusion of features related to the veracity of rumors disseminated across social media platforms, annotated with temporal information and source credibility.
-    \item \href{https://www.scidb.cn/en/detail?dataSetId=1085347f720f4cfc97a157e469734a66}{Weibo} \footnote{Ma et al. Detecting rumors from microblogs with recurrent neural networks} dataset was also incorporated, characterized by features that capture user engagement metrics, content authenticity, and temporal dynamics of posts within the Chinese social media.
+
+• FakeNewsNet, comprises two distinct datasets: Politifact and Gossipcop. This
+repository encompasses features such as the content of the news, social context, and
+spatiotemporal data. https://github.com/KaiDMML/FakeNewsNet
+
+• Pheme Veracity  dataset, which is known for its inclusion of features related to
+the veracity of rumors disseminated across social media platforms, annotated with
+temporal information and source credibility. https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078
+
+• Weibo  dataset was also incorporated, characterized by features that capture user
+engagement metrics, content authenticity, and temporal dynamics of posts within
+the Chinese social media. https://www.scidb.cn/en/detail?dataSetId=1085347f720f4cfc97a157e469734a66
