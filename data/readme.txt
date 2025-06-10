@@ -1,4 +1,4 @@
-The datasets generated and analyzed during the current study are available:
+The datasets used during the current study are available:
 
 
 • FakeNewsNet, comprises two distinct datasets: Politifact and Gossipcop. This
